@@ -8,3 +8,9 @@
 /httpRequests/
 
 .idea/
+/misc.xml
+/modules.xml
+/inspectionProfiles/profiles_settings.xml
+/inspectionProfiles/Project_Default.xml
+/Training01_MNIST_python.iml
+/vcs.xml
